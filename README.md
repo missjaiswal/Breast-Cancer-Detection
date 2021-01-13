@@ -1,2 +1,2 @@
 # Breast-cancer-detection
-This project is used to detect whether the person has malignant or benign type of breast using logistic regression model.
+This project is used to detect whether the person has malignant or benign type of breast cancer using logistic regression model.
